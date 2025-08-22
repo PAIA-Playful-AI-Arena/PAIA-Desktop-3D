@@ -8,8 +8,8 @@ Pre-built installers of latest release can be downloaded from the links below.
 
 ### Windows 64-Bit
 
-[![](https://img.shields.io/badge/EXE%20Installer-0.1.1-blue)](https://github.com/PAIA-Playful-AI-Arena/PAIA-Desktop-3D/releases/download/0.1.1/PAIA.Desktop.3D-0.1.1.Setup.exe)
+[![](https://img.shields.io/badge/EXE%20Installer-0.2.0-blue)](https://github.com/PAIA-Playful-AI-Arena/PAIA-Desktop-3D/releases/download/0.2.0/PAIA.Desktop.3D-0.2.0.Setup.exe)
 
 ### macOS 64-Bit (Apple Silicon)
 
-[![](https://img.shields.io/badge/DMG%20Installer-0.1.1-red)](https://github.com/PAIA-Playful-AI-Arena/PAIA-Desktop-3D/releases/download/0.1.1/PAIA.Desktop.3D-0.1.1-arm64.dmg)
+[![](https://img.shields.io/badge/DMG%20Installer-0.2.0-red)](https://github.com/PAIA-Playful-AI-Arena/PAIA-Desktop-3D/releases/download/0.2.0/PAIA.Desktop.3D-0.2.0-arm64.dmg)
